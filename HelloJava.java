@@ -3,6 +3,7 @@ public class HelloJava {
 		System.out.println("你好Java");
 		System.out.println("你好Java");
 		System.out.println("jahao 世界");
+		System.out.println("你好Java");
 	}
 	
 }
